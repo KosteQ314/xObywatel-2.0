@@ -1,8 +1,8 @@
-## yObywatel 2.0
+## xObywatel 0.2
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-https://morleee.github.io/yObywatel
+link niedługo
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
@@ -14,4 +14,3 @@ https://morleee.github.io/yObywatel
 - Uzupełnij dane i kliknij wejdź
 - Naciśji 3 kropki -> Dodaj do ekranu głównego
 
-[Dołącz na naszego discorda](https://discord.gg/EDg7A8sWqm)
