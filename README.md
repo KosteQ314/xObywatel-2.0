@@ -2,7 +2,7 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-link niedługo
+[Link do strony (jeszcze w pełni nie działą)](https://kosteq314.github.io/xObywatel-2.0/)
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
